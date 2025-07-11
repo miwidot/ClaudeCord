@@ -65,7 +65,7 @@ Your data stays yours:
 
 **Requirements:**
 - macOS 15.0+
-- Claude CLI installed (`pip install claude-cli`)
+- Claude Code CLI 
 - Valid Anthropic API key
 
 ## Key Features in Action
