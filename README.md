@@ -1,7 +1,4 @@
 # ClaudeCord
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/miwidot/claudecord-mac/main/ClaudeCord/Assets.xcassets/AppIcon.appiconset/icon_128x128.png" width="128" height="128" />
   
   **The Ultimate Native macOS Client for Claude CLI**
   
